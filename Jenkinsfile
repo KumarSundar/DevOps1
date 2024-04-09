@@ -50,7 +50,7 @@ stages{
   }
   }
   }
-  */ Test
+  */ 
 }//Stages Closing
 
 }//Pipeline closing
